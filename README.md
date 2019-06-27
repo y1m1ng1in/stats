@@ -1,6 +1,8 @@
 # Stats
 Copyright (c) 2019 Yiming Lin
 
+**Email Address: yl6@pdx.edu**
+
 This program computes a basic statistic. Its input is
 taken from `stdin`, and must consist of floating-point
 numbers as text, one per line.
